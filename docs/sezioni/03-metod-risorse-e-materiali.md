@@ -28,7 +28,5 @@ La filosofia del progetto prevede l'utilizzo creativo di materiali semplici e ac
 
 - *Calzini antiscivolo*
   
-- *Una merenda semplice e pratica (con una bustina richiudibile)*
-  
 - *Una piccola borraccia o una bottiglietta o un bicchiere per l'acqua*
   
