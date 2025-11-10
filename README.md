@@ -13,7 +13,7 @@ maestri:
   qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
   ruolo: coordinatore
 maestri-width: '0.3'
-subtitle: Scuola dell'Infanzia Lorenzo Cuneo - 2025/2026
+subtitle: Scuola dell'Infanzia IC Largo Dino Buzzati - 2025/2026
 title: Piccoli esploratori sonori
 ---
 
