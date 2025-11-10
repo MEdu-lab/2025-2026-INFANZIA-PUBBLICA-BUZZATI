@@ -6,6 +6,7 @@ progetto:
   sottotitolo: "Scuola dell'Infanzia IC Largo Dino Buzzati"
   anno_scolastico: "2025/2026"
   tipo_scuola: "pubblica"
+  
 # Informazioni sui maestri
 maestri:
   - nome: "Pietro Barale"
