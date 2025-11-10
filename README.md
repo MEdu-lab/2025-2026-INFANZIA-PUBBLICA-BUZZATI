@@ -97,6 +97,7 @@ La filosofia del progetto prevede l'utilizzo creativo di materiali semplici e ac
   
 - *Una piccola borraccia o una bottiglietta o un bicchiere per l'acqua*
   
+- se previsto nell'orario, una piccola merenda semplice, possibilmente non a base di zuccheri o cioccolato.
 
 
 ---
